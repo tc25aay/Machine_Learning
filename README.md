@@ -86,5 +86,3 @@ This project is licensed under the **MIT Licence** — see [LICENSE](LICENSE) fo
 You are free to use, modify, and distribute this code with attribution.
 
 ---
-
-**GitHub:** https://github.com/yourusername/ml-tutorials/tree/main/tutorial-01-backpropagation
